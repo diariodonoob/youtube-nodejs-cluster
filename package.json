@@ -1,0 +1,23 @@
+{
+  "name": "youtube-nodejs-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "stat": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diariodonoob/youtube-nodejs-cluster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diariodonoob/youtube-nodejs-cluster/issues"
+  },
+  "homepage": "https://github.com/diariodonoob/youtube-nodejs-cluster#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
